@@ -30,4 +30,4 @@ PostgreSQL internals · ONNX Runtime · PG extensions · Oracle compatibility
 
 > Just for fun :)
 
-> 写了这么多项目，不代表我都懂，只是 copy 改改编译能过就行，技术水平一般般，请不要太过期待 :)
+> 写了这么多项目，不代表我都懂，只是 copy 改改编译能过就行，你信不信 :)
