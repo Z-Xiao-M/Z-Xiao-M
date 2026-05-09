@@ -27,5 +27,3 @@ PostgreSQL kernel developer. Based in Hangzhou, China.
 PostgreSQL internals · ONNX Runtime · PG extensions · Oracle compatibility
 
 ---
-
-> Just for fun :)
