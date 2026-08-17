@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Man Zeng.
 
-PostgreSQL kernel developer. Based in Hangzhou, China.
-
 ### My Projects
 
 - **[pg_ocr](https://github.com/Z-Xiao-M/pg_ocr)** — OCR directly in PostgreSQL via SQL. Built on ONNX Runtime + PP-OCRv5.
